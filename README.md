@@ -8,7 +8,7 @@ my first mobie repository
 3. 输入该代码仓库的基本信息
 4. 完成创建
 
-## 将此代码库克隆岛本地
+## 将此代码库克隆到本地
 
 1. 在git shell命令行中使用"git clone "代码仓库的地址"(代码仓库的url.git)"克隆至本地，默认是克隆至命令行当前所在的文件夹中
 
@@ -20,7 +20,7 @@ my first mobie repository
 
 1. 后续通过npm install的依赖将会自动安装到这个文件夹中
 
-## 配置产品环境以及开发环境的e文件架构
+## 配置产品环境以及开发环境的文件架构
 
 ## 创建并编辑.gitignoree文件
 
