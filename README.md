@@ -22,8 +22,6 @@ my first mobie repository
 
 ## 配置产品环境以及开发环境的e文件架构
 
-1. 
-
 ## 创建并编辑.gitignoree文件
 
 1. 忽略一些不必要提交到代码仓库中的开发环境代码等，比如*node_modules*文件夹以及开发环境y文件夹*develop*是不需要提交至代码仓库中，则可以将这两个文件夹名称分行添加至。gitignore中
