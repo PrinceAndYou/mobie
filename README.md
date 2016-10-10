@@ -37,9 +37,9 @@ my first mobie repository
 ## 将本地初始化好的整个项目通过git推送至远程代码仓库
 
 1. 打开git shell
-2. 'git pull'将远程代码仓库中修改的内容同步拉取到本地
 3. 'git add *'将项目中的所有未被.gitignore的文件添加至即将上传至本地仓库的缓冲区
 4. 'git status'查看缓冲区的即将被上传的文件
 5. (\*)'git reset'如果发现'git add'操作添加有误，可以使用此命令回退
 6. 'git commit -m "this is my first mobile project"'提交代码至本地并且必须书写注释
+6. 'git pull'如果远程代码仓库进行了修改，才需要将远程代码仓库中修改的内容同步拉取到本地
 7. 'git push'提交代码至远程代码仓库
